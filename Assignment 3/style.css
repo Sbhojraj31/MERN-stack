@@ -1,0 +1,33 @@
+body{
+    background-image: url(./bg\ image.jpg);
+    color:white;
+    text-align:center;
+    font-size:sans-serif;
+    font-weight:x-large;
+    margin: 350px;
+}
+P{
+    font-size:xx-large;
+}
+button{
+    font-size:xx-large;
+}
+button:hover{
+    background-color: black;
+    color: aliceblue;
+}
+div{
+    font-size: 50px;
+    border: 5px solid black;
+    margin-left: 350px;
+    margin-right: 350px;
+    background-color:rgba(0, 195, 255, 0.637);
+    border-radius: 40pc
+}
+input{
+    font-size:xx-large;
+    border: 5px solid black;
+}
+a{
+    text-decoration: none;
+}
