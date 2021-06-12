@@ -1,0 +1,79 @@
+body {
+    margin-top: 30px;
+    text-align: center;
+    font-weight: lighter;
+    color: #24292e;
+  }
+  
+  h1 {
+    font-weight: lighter;
+    margin-top: 30px;
+  }
+  .account {
+    border: 1px solid #ebedef;
+    border-radius: 6px;
+    background-color: #f6f8fa;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+  }
+  #forgot {
+    margin-left: 120px;
+    font-size: small;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #0366d6;
+  }
+  input {
+    inline-size: 90%;
+    height: 25px;
+    border-radius: 7px;
+    border: 1px solid #d1d5da;
+    outline-color: #d1d5da;
+    padding: 3px 10px;
+    margin: 10px auto;
+  }
+  input:hover {
+    border: 3px solid rgba(104, 166, 233, 0.5);
+    border-radius: 7px;
+    outline-color: rgba(104, 166, 233, 0.5);
+  }
+  
+  .mid {
+    border: 1px solid #d1d5da;
+    height: 30px;
+    width: 300px;
+    margin: 30px auto;
+    padding-top: 15px;
+    border-radius: 5px;
+  }
+  
+  .footer {
+    margin: 50px auto;
+  }
+  
+  button {
+    height: 35px;
+    inline-size: 100%;
+    padding: 3px 10px;
+    margin: 10px auto;
+    border-radius: 6px;
+    background-color: #2ea44f;
+    border: rgba(27, 31, 35, 0.15);
+    color: white;
+  }
+  button:hover {
+    background-color: #31974e;
+  }
+  
+  .footer a {
+    font-size: small;
+    margin: 5px;
+  }
+  
+  #special {
+    color: black;
+  }
